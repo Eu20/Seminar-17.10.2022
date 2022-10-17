@@ -1,2 +1,2 @@
-Example text.
+Example changed text.
 Line 2.
